@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main(void)
+int main_01(void)
 {
 	int age; // 1. 변수 선언
 
@@ -17,7 +17,6 @@ int main(void)
 	int c = 30;
 
 	// 변수 선언
-	int a, b, c;
 
 	// 할당
 	a = 10;
@@ -26,6 +25,9 @@ int main(void)
 
 	// 선언 할당 동시
 	int a_1 = 10, b_2 = 20, c_2 = 30;
+
+
+
 
 
 	
