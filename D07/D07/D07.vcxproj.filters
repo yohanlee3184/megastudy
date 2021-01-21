@@ -18,5 +18,14 @@
     <ClCompile Include="d7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Dice.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
